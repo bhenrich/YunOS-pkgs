@@ -1,0 +1,27 @@
+{
+    "packages": {
+        "nano": {
+            "name": "GNU.Nano",
+            "download_url": "https://example.com/nano.tar.gz",
+            "zip": false,
+            "extra_instructions": false
+
+        },
+        "python": {
+            "name": "Python.Python.3.10",
+            "download_url": "https://example.com/python.tar.gz",
+            "zip": true,
+            "extra_instructions": true,
+            "unpack": [
+                "python310.zip",
+                ".."
+            ]
+        },
+        "node": {
+            "name": "OpenJS:NodeJS.18.15.0",
+            "download_url": "https://example.com/python.tar.gz",
+            "zip": true,
+            "extra_instructions": false
+        }
+    }
+}
