@@ -2,14 +2,14 @@
     "packages": {
         "nano": {
             "name": "GNU.Nano",
-            "download_url": "https://example.com/nano.tar.gz",
+            "download_url": "https://www.nano-editor.org/dist/win32-support/nano-git-0d9a7347243.exe",
             "zip": false,
             "extra_instructions": false
 
         },
         "python": {
             "name": "Python.Python.3.10",
-            "download_url": "https://example.com/python.tar.gz",
+            "download_url": "https://www.python.org/ftp/python/3.10.10/python-3.10.10-embed-amd64.zip",
             "zip": true,
             "extra_instructions": true,
             "unpack": [
@@ -19,7 +19,7 @@
         },
         "node": {
             "name": "OpenJS:NodeJS.18.15.0",
-            "download_url": "https://example.com/python.tar.gz",
+            "download_url": "https://nodejs.org/dist/v18.15.0/node-v18.15.0-win-x64.zip",
             "zip": true,
             "extra_instructions": false
         }
