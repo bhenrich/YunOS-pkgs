@@ -18,7 +18,7 @@
             ]
         },
         "node": {
-            "name": "OpenJS:NodeJS.18.15.0",
+            "name": "OpenJS.NodeJS.18.15.0",
             "download_url": "https://nodejs.org/dist/v18.15.0/node-v18.15.0-win-x64.zip",
             "zip": true,
             "extra_instructions": false
